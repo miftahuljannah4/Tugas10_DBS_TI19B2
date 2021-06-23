@@ -23,4 +23,4 @@
 
 # Tulisakan script cron job untuk melakukan backupotomatis setiap hari minggu jam 12 malam !
 # 1. Script Untuk menjalankan backup database setiap hari minggu jam 12 malam : script dibawah :
-# 0 0 * * 7 mysqldump -u root -p miftahul_311910740 > backup2.sql
+# 0 0 * * 7 mysqldump -u root -p31564 miftahul_311910740 > backup2.sql
